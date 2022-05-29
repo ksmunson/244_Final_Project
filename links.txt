@@ -1,0 +1,5 @@
+https://machinelearningmastery.com/deep-learning-models-for-multi-output-regression/
+https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/
+https://www.overleaf.com/project/6272e957b9bf153eb69f9b67
+https://huggingface.co/docs/transformers/main_classes/trainer
+https://docs.google.com/presentation/d/1VxfT6qLApzMarpBw4RToiJ7UNdNRHcbVtPoDJLU_g_Q/edit?usp=sharing
